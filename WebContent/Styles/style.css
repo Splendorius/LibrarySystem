@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+#title{
+	color: green;
+	text-align: center;
+}
+.login-box {
+	padding: 70px 0;
+	margin: auto;
+	width: 50%;
+	height: 50%;
+	border: 3px solid green;
+	padding: 10px;
+}
+
+.log_input{
+	width:100px;
+	
+}
+
+#error{
+	color:red;
+}
+.login-inside {
+	text-align: left;
+}
+
+
