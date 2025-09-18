@@ -38,7 +38,7 @@ It was built using **Servlets, JSP, and MySQL** to demonstrate how enterprise Ja
   
   Example JDBC config:
 ```xml
-   <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
+    <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
     <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/librarydb"/>
     <property name="javax.persistence.jdbc.user" value="root"/>
     <property name="javax.persistence.jdbc.password" value="yourpassword"/>
