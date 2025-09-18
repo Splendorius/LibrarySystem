@@ -37,10 +37,12 @@ It was built using **Servlets, JSP, and MySQL** to demonstrate how enterprise Ja
   Update JDBC settings (user, password, URL) in the project.
   
   Example JDBC config:
-    <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
+```xml
+   <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
     <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/librarydb"/>
     <property name="javax.persistence.jdbc.user" value="root"/>
     <property name="javax.persistence.jdbc.password" value="yourpassword"/>
+```
   
 4.Deploy to a server:
   Add the project to Tomcat 7+ or GlassFish 3.x in Eclipse.
