@@ -10,8 +10,8 @@ public final class DBConnection {
   public static Connection createConnection() {
     Connection con = null;
     var url = "jdbc:mysql://localhost:3306/Biblio";
-    var username = "root";
-    var password = "659948P!@#aBh";
+    var username = "CHANGE_ME";
+    var password = "CHANGE_ME";
 
     try {
         Class.forName("com.mysql.cj.jdbc.Driver");
