@@ -44,9 +44,9 @@ It was built using **Servlets, JSP, and MySQL** to demonstrate how enterprise Ja
     <property name="javax.persistence.jdbc.password" value="yourpassword"/>
 ```
   
-4.Deploy to a server:
+4. Deploy to a server:
   Add the project to Tomcat 7+ or GlassFish 3.x in Eclipse.
   Run the project on the server.
 
-5.Access in browser:
+5. Access in browser:
   http://localhost:8080/LibrarySystem
