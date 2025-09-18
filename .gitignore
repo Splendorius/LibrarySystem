@@ -1,0 +1,14 @@
+# Java / Maven / Eclipse / IntelliJ
+target/
+*.class
+*.log
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+# Old Eclipse Web Tools output
+build/
+# OS
+.DS_Store
+Thumbs.db
