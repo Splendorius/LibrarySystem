@@ -28,7 +28,7 @@ It was built using **Servlets, JSP, and MySQL** to demonstrate how enterprise Ja
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Splendorius/System_Bibl.git
+   git clone https://github.com/Splendorius/LibrarySystem.git
 2. Open the project in Eclipse (Enterprise Edition).
 
 3. Configure your database:
