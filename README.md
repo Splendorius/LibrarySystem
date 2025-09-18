@@ -47,4 +47,4 @@ It was built using **Servlets, JSP, and MySQL** to demonstrate how enterprise Ja
   Run the project on the server.
 
 5.Access in browser:
-  http://localhost:8080/System_Bibl
+  http://localhost:8080/LibrarySystem
